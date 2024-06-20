@@ -1,2 +1,2 @@
-# HandSpeak-A
+# HandSpeak-AI
 Gesture-Based Communication Converter
